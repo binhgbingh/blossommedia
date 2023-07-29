@@ -11,6 +11,10 @@ body{
     "Helvetica Neue", sans-serif;
 }
 
+p{
+    line-height: 1.3em;
+}
+
 nav{
     background: #000;
     color: #fff;
