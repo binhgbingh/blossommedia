@@ -325,11 +325,12 @@ footer h2{
 
 
 #why-front{
-	background-color: #fff;
+	background-color: white;
 	padding: 0 10rem 0 10rem;
 }
 
 .why-front{
+	background-color: white;
     padding-top: 5vw;
     padding-bottom: 5vw;
 }
